@@ -31,5 +31,4 @@ Please send your questions [here](mailto:${data.email}?subject=[GitHub]%20Dev%20
 `;
 }
 
-
 module.exports = generateMarkdown;
